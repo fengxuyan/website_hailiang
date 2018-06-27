@@ -1,0 +1,32 @@
+.news-info {
+    padding-top: 40px;
+    padding-bottom: 50px;
+    transition: normal;
+    position: relative;
+    margin: 0 auto;
+    text-align: center;
+    /* display: flex; */
+}
+
+.news-info .leftwrap {
+    width: 100%;
+    margin-right: 0;
+    text-align: left;
+}
+
+.news-info.wrap {
+    width: 1100px;
+    margin: 0 auto;
+}
+
+.paging p {
+    text-align: left;
+}
+
+.return.fr {
+    text-indent: 0;
+}
+
+.g-h-title {
+    text-align: center;
+}

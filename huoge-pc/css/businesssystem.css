@@ -1,0 +1,52 @@
+.banner .btnbox {
+    position: absolute;
+    left: 50%;
+    bottom: 29px;
+}
+
+.banner .btnbox span {
+    display: block;
+    width: 13px;
+    height: 13px;
+    background: url("http://www.hailiang.com/static/web/css/../img/ico_03.png") no-repeat center;
+    float: left;
+    cursor: pointer;
+    margin-left: 11px;
+}
+
+.banner .btnbox span.on {
+    background: url("http://www.hailiang.com/static/web/css/../img/ico_04.png") no-repeat center;
+}
+
+.news-infor .top-wrap .left .btnbox {
+    position: absolute;
+    bottom: 16%;
+    left: 50%;
+    overflow: hidden;
+}
+
+.news-infor .top-wrap .btnbox span {
+    width: 15px;
+    height: 7px;
+    margin-left: 8px;
+    cursor: pointer;
+    background: url("http://www.hailiang.com/static/web/css/../img/ico_47.png") no-repeat right center;
+    text-indent: 9999;
+    display: block;
+    float: left;
+    transition: normal;
+}
+
+.news-infor .top-wrap .btnbox span.on {
+    background: url("http://www.hailiang.com/static/web/css/../img/ico_47.png") no-repeat left center;
+    width: 25px;
+}
+
+.industrial-metal .listwrap .img .btnbox {
+    bottom: 10px;
+    left: 0;
+    position: absolute;
+    text-align: center;
+    width: 100%;
+    z-index: 20;
+}

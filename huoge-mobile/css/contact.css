@@ -1,0 +1,25 @@
+.contact-descript{
+    margin: 10px;
+}
+.contact-descript p{
+    margin-bottom: 2px;
+}
+.contact-h2{
+    font-size: 2rem;
+    line-height: 85px;
+    color: #035cac;
+    font-weight: normal;
+    margin: 10px;
+}
+.contact-btn{
+    border: none;
+    width: 60px;
+    height: 40px;
+    background-color: #035cac;
+    line-height: 40px;
+    text-align: center;
+    color: #fff;
+    font-size: 16px;
+    padding: 0;
+    margin: 15px 15px;
+}

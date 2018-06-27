@@ -1,0 +1,18 @@
+.history{
+    font-size: 20px;
+    color: #035cac;
+    margin: 10px;
+}
+.history-content{
+    margin: 10px;
+}
+.history-content-date{
+    margin: 10px;
+}
+.mui-card-header-bg{
+    background: #eeeeee;
+}
+.mui-card-top{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
